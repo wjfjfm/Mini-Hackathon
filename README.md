@@ -1,6 +1,6 @@
-该项目为通过[OnlineJudge 2.0](https://github.com/QingdaoU/OnlineJudge)经过前端二次开发得到的
+该项目为通过[OnlineJudge 2.0](https://github.com/QingdaoU/OnlineJudge)二次开发得到的
 
-二次开发的目的是去掉任何多余的功能, 只保留最精简最核心的内容.
+目的是去掉多余的功能, 只保留最精简最核心的内容.
 
 # 部署方法
 
